@@ -2,7 +2,7 @@ body
 {
     margin: 10px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background: linear-gradient(to right,rgb(220, 71, 96),rgb(188, 147, 147), rgb(115, 115, 205));
+    background: linear-gradient(to right,rgb(89, 35, 44),rgb(216, 191, 191), rgb(92, 92, 168));
     display: flex;
     justify-content: center;
     align-items: center;
