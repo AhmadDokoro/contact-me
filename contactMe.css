@@ -2,7 +2,7 @@ body
 {
     margin: 10px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-    background: linear-gradient(to right,rgb(89, 35, 44),rgb(216, 191, 191), rgb(92, 92, 168));
+    background: linear-gradient(to right,rgb(191, 150, 157),rgb(216, 191, 191), rgb(72, 139, 86));
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,7 +12,7 @@ body
 .profile-card
 {
     width: 350px;
-    background: linear-gradient(to left, rgb(220, 71, 96), rgb(204, 172, 172),rgb(115, 115, 205));
+    background: linear-gradient(to left, rgb(192, 140, 148), rgb(204, 172, 172),rgb(145, 205, 115));
     overflow: hidden;
     padding: 20px;
     border-radius: 15px;
